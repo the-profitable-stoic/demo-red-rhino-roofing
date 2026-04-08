@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Red Rhino Roofing",
+    "phone": "+19158018691",
+    "category": "roofer",
+    "city": "El Paso",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "El Paso's Roofing Experts",
+      "heroSubline": "Reliable roofing solutions built for the desert climate. Quality craftsmanship and lasting protection for your home.",
+      "aboutTitle": "Protecting El Paso Homes, One Roof at a Time",
+      "aboutText": [
+        "Red Rhino Roofing started with a simple goal: to provide El Paso homeowners with roofing they could rely on. Founded by local El Pasoan, Javier Rodriguez, we understood the unique challenges our desert climate poses to roofs.",
+        "Our approach is straightforward: honest assessments, durable materials, and skilled installation. We value transparency and will always provide you with a clear understanding of the work needed and the costs involved.",
+        "We're deeply invested in the El Paso community. We support local schools and organizations, believing that a strong community starts with strong homes and businesses."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand El Paso's climate and housing styles to provide the right roofing solutions."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use durable materials designed to withstand the harsh El Paso sun and minimal rainfall."
+        },
+        {
+          "title": "Experienced Crew",
+          "description": "Our team of skilled roofers is dedicated to providing quality workmanship and professional service."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide clear and upfront pricing, so you know exactly what to expect with no hidden fees."
+        }
+      ],
+      "ctaHeadline": "Get a Free Roofing Estimate Today!",
+      "ctaSubline": "Protect your home with El Paso's trusted roofing professionals."
+    },
+    "services": [
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Fast, reliable roof repair services to protect your El Paso home from the elements.",
+        "description": "From minor leaks to storm damage, Red Rhino Roofing offers comprehensive roof repair services to address any issue quickly and efficiently. El Paso's intense sun and occasional monsoons can take a toll on your roof, leading to cracks, missing shingles, and water damage. We assess the damage thoroughly, provide a clear explanation of the necessary repairs, and use high-quality materials to ensure a lasting solution.\n\nOur repair services include shingle replacement, leak detection and repair, flashing repair, and storm damage restoration. We work on all types of roofing materials common in El Paso, including asphalt shingles, tile roofs, and flat roofs. We understand the urgency of roof repairs and strive to provide prompt and reliable service to minimize damage to your home.",
+        "process": [
+          "Step 1: Thorough roof inspection to identify all areas of damage.",
+          "Step 2: Detailed explanation of the required repairs and a transparent cost estimate.",
+          "Step 3: Professional repairs using high-quality materials.",
+          "Step 4: Final inspection to ensure the repairs are completed to our high standards."
+        ],
+        "benefits": [
+          "Prevents further water damage to your home.",
+          "Extends the lifespan of your roof.",
+          "Maintains the structural integrity of your home.",
+          "Increases your home's curb appeal."
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need a roof repair?",
+            "answer": "Common signs include water stains on your ceiling, missing or damaged shingles, and leaks after rainfall. If you notice any of these signs, it's important to call us for an inspection."
+          },
+          {
+            "question": "How long does a roof repair take?",
+            "answer": "The duration of a roof repair depends on the extent of the damage. Minor repairs can often be completed in a day, while more extensive repairs may take several days."
+          },
+          {
+            "question": "Do you offer emergency roof repair services?",
+            "answer": "Yes, we offer 24/7 emergency roof repair services to address urgent issues like storm damage and severe leaks. Call us immediately, and we'll dispatch a team to your home as soon as possible."
+          }
+        ]
+      },
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Upgrade your El Paso home with a durable and stylish new roof.",
+        "description": "When repairs are no longer sufficient, Red Rhino Roofing provides complete roof replacement services. We offer a wide selection of roofing materials to suit your style and budget, including asphalt shingles, tile roofs, metal roofs, and flat roofing systems. Our experienced team will guide you through the selection process, ensuring you choose the best option for your El Paso home.\n\nWe handle every aspect of the roof replacement process, from removing the old roof to installing the new one with precision and care. We use only high-quality materials and follow industry best practices to ensure a long-lasting and weather-resistant roof. We understand the importance of a properly installed roof in protecting your home from the harsh El Paso elements.",
+        "process": [
+          "Step 1: Consultation to discuss your roofing needs and preferences.",
+          "Step 2: Removal of the old roof and disposal of debris.",
+          "Step 3: Installation of underlayment and flashing.",
+          "Step 4: Installation of the new roofing material with expert craftsmanship."
+        ],
+        "benefits": [
+          "Increases your home's value.",
+          "Enhances your home's curb appeal.",
+          "Provides superior protection from the elements.",
+          "Improves energy efficiency."
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement take?",
+            "answer": "The duration of a roof replacement depends on the size and complexity of the roof. Most replacements can be completed in 3-5 days."
+          },
+          {
+            "question": "How much does a new roof cost?",
+            "answer": "The cost of a new roof varies depending on the materials used and the size of the roof. We provide free, no-obligation estimates to help you understand the costs involved."
+          },
+          {
+            "question": "What type of roofing material is best for El Paso?",
+            "answer": "Asphalt shingles are a popular and cost-effective choice for El Paso homes. Tile roofs are also a good option for their durability and resistance to heat. Metal roofs are increasingly popular for their longevity and energy efficiency."
+          }
+        ]
+      },
+      {
+        "slug": "roof-inspection",
+        "name": "Roof Inspection",
+        "shortDescription": "Comprehensive roof inspections to identify potential problems before they become major issues.",
+        "description": "Protect your investment with Red Rhino Roofing's thorough roof inspection services. We examine every aspect of your roof, from the shingles to the flashing, to identify any signs of damage or deterioration. Our experienced inspectors provide a detailed report outlining the condition of your roof and recommending any necessary repairs or maintenance.\n\nRegular roof inspections are crucial for extending the lifespan of your roof and preventing costly repairs. We recommend scheduling an inspection at least once a year, especially after major storms or extreme weather events. Our inspections can help you identify problems early on, such as leaks, damaged shingles, and cracked flashing, allowing you to address them before they escalate.",
+        "process": [
+          "Step 1: Visual inspection of the roof from the ground.",
+          "Step 2: Close-up inspection of the roof surface, including shingles, flashing, and vents.",
+          "Step 3: Inspection of the attic for signs of leaks or water damage.",
+          "Step 4: Detailed report outlining the condition of the roof and any recommended repairs."
+        ],
+        "benefits": [
+          "Identifies potential problems early on.",
+          "Extends the lifespan of your roof.",
+          "Prevents costly repairs.",
+          "Provides peace of mind."
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend scheduling a roof inspection at least once a year, or after any major storms."
+          },
+          {
+            "question": "What is included in a roof inspection?",
+            "answer": "Our roof inspections include a thorough examination of the roof surface, flashing, vents, and attic. We provide a detailed report outlining the condition of your roof and any recommended repairs."
+          },
+          {
+            "question": "How much does a roof inspection cost?",
+            "answer": "We offer affordable roof inspection services. Contact us today for a free quote."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Services",
+        "shortDescription": "Protect your home from water damage with our professional gutter installation and repair services.",
+        "description": "Red Rhino Roofing provides comprehensive gutter services to ensure your home's drainage system is functioning properly. Gutters play a crucial role in diverting water away from your foundation, preventing water damage and erosion. We offer gutter installation, repair, and cleaning services to keep your gutters in top condition.\n\nWe install high-quality gutters that are designed to withstand the El Paso climate. Our repair services address common issues such as leaks, clogs, and sagging gutters. We also offer gutter cleaning services to remove leaves, debris, and other obstructions that can cause water to back up and damage your home.",
+        "process": [
+          "Step 1: Inspection of existing gutters to assess their condition.",
+          "Step 2: Recommendation of the best gutter solution for your home.",
+          "Step 3: Professional installation or repair of gutters.",
+          "Step 4: Gutter cleaning to remove debris and ensure proper drainage."
+        ],
+        "benefits": [
+          "Protects your foundation from water damage.",
+          "Prevents soil erosion.",
+          "Keeps your home dry and comfortable.",
+          "Extends the lifespan of your roof."
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, especially in the spring and fall."
+          },
+          {
+            "question": "What are the signs that I need new gutters?",
+            "answer": "Common signs include leaks, sagging gutters, and water damage around your foundation."
+          },
+          {
+            "question": "What type of gutters do you offer?",
+            "answer": "We offer a variety of gutter materials, including aluminum, steel, and copper. We can help you choose the best option for your home and budget."
+          }
+        ]
+      },
+      {
+        "slug": "flat-roofing",
+        "name": "Flat Roofing",
+        "shortDescription": "Expert flat roofing solutions for commercial and residential buildings in El Paso.",
+        "description": "Red Rhino Roofing specializes in flat roofing systems for both commercial and residential buildings. Flat roofs require specialized knowledge and expertise to ensure proper installation and long-term performance. We offer a variety of flat roofing materials, including TPO, PVC, and modified bitumen, to meet the unique needs of your building.\n\nOur experienced team will assess your building's requirements and recommend the best flat roofing solution for your budget and performance expectations. We handle every aspect of the installation process, from preparing the roof surface to installing the roofing membrane with precision and care. We also offer flat roof repair and maintenance services to keep your roof in top condition.",
+        "process": [
+          "Step 1: Inspection of the existing flat roof to assess its condition.",
+          "Step 2: Recommendation of the best flat roofing solution for your building.",
+          "Step 3: Professional installation or repair of the flat roofing system.",
+          "Step 4: Regular maintenance to ensure long-term performance."
+        ],
+        "benefits": [
+          "Provides a durable and weather-resistant roofing solution.",
+          "Offers excellent insulation properties.",
+          "Is cost-effective and easy to maintain.",
+          "Is ideal for commercial and residential buildings."
+        ],
+        "faq": [
+          {
+            "question": "What are the different types of flat roofing materials?",
+            "answer": "Common flat roofing materials include TPO, PVC, and modified bitumen. Each material has its own unique properties and benefits."
+          },
+          {
+            "question": "How long does a flat roof last?",
+            "answer": "The lifespan of a flat roof depends on the material used and the quality of installation. With proper maintenance, a flat roof can last for 20-30 years."
+          },
+          {
+            "question": "How do I maintain my flat roof?",
+            "answer": "Regular maintenance for flat roofs includes cleaning the surface, inspecting for leaks, and repairing any damage promptly."
+          }
+        ]
+      },
+      {
+        "slug": "storm-damage-repair",
+        "name": "Storm Damage Repair",
+        "shortDescription": "Fast and reliable storm damage repair services to restore your roof after severe weather.",
+        "description": "El Paso's monsoon season can bring heavy rain, high winds, and hail, which can cause significant damage to your roof. Red Rhino Roofing offers comprehensive storm damage repair services to restore your roof to its pre-storm condition. We respond quickly to your call and provide a thorough assessment of the damage, followed by prompt and professional repairs.\n\nOur storm damage repair services include shingle replacement, leak repair, flashing repair, and structural repairs. We work with all types of roofing materials and can handle any size of storm damage. We also assist with insurance claims, making the repair process as smooth and stress-free as possible.",
+        "process": [
+          "Step 1: Emergency response to assess the damage.",
+          "Step 2: Detailed inspection and documentation of the damage.",
+          "Step 3: Coordination with your insurance company.",
+          "Step 4: Professional repairs to restore your roof to its pre-storm condition."
+        ],
+        "benefits": [
+          "Protects your home from further damage.",
+          "Restores the structural integrity of your roof.",
+          "Prevents leaks and water damage.",
+          "Makes the insurance claim process easier."
+        ],
+        "faq": [
+          {
+            "question": "What should I do if my roof is damaged in a storm?",
+            "answer": "First, ensure your safety. Then, contact Red Rhino Roofing for a prompt assessment and repair. Document the damage with photos and contact your insurance company."
+          },
+          {
+            "question": "How long will it take to repair my roof after a storm?",
+            "answer": "The duration of the repair depends on the extent of the damage. We strive to complete repairs as quickly and efficiently as possible."
+          },
+          {
+            "question": "Will my insurance cover storm damage repairs?",
+            "answer": "Most homeowners insurance policies cover storm damage repairs. We can assist you with the insurance claim process to ensure you receive the coverage you deserve."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "El Paso",
+        "slug": "el-paso-tx",
+        "state": "TX",
+        "content": "Red Rhino Roofing is proud to serve the El Paso community with top-quality roofing services. From the historic neighborhoods near downtown to the growing suburbs on the west side, we understand the unique roofing needs of El Paso homes and businesses. We are dedicated to providing reliable repairs, efficient replacements, and expert installations to protect your property from the harsh Texas weather.\n\nOur team of experienced roofing professionals is committed to delivering exceptional workmanship and outstanding customer service. We use only the highest-quality materials and employ proven techniques to ensure that your roof is durable, long-lasting, and aesthetically pleasing. Whether you need a minor repair, a complete roof replacement, or a new roof installation, Red Rhino Roofing is the trusted choice for El Paso homeowners and business owners.",
+        "localContext": "El Paso, a vibrant city steeped in history and culture, experiences hot summers and occasional monsoon seasons, making durable roofing crucial.",
+        "nearbyAreas": [
+          "Socorro",
+          "Horizon City",
+          "Anthony"
+        ]
+      },
+      {
+        "city": "Socorro",
+        "slug": "socorro-tx",
+        "state": "TX",
+        "content": "Red Rhino Roofing extends its expert roofing services to the residents and businesses of Socorro, TX. We understand the specific challenges that the Socorro climate poses to roofs, including intense sun exposure and occasional strong winds. Our team is equipped to handle all your roofing needs, from minor repairs to complete roof replacements, ensuring your property is protected and secure.\n\nWe are committed to providing Socorro with reliable, affordable, and high-quality roofing solutions. Our experienced professionals use only the best materials and employ proven techniques to deliver exceptional workmanship. Whether you need a new roof for your home or repairs to your commercial building, Red Rhino Roofing is the trusted choice in Socorro.",
+        "localContext": "Socorro, a town rich in history along the Rio Grande, requires robust roofing solutions to withstand the desert climate.",
+        "nearbyAreas": [
+          "El Paso",
+          "Clint",
+          "San Elizario"
+        ]
+      },
+      {
+        "city": "Horizon City",
+        "slug": "horizon-city-tx",
+        "state": "TX",
+        "content": "Red Rhino Roofing is dedicated to serving the growing community of Horizon City, TX, with reliable and professional roofing services. As Horizon City continues to expand, we are committed to providing homeowners and businesses with the highest quality roofing solutions to protect their investments.\n\nOur team of experienced roofing professionals is equipped to handle all your roofing needs, from minor repairs to complete roof replacements. We understand the specific challenges of the Horizon City climate and use only the best materials and proven techniques to ensure your roof is durable, long-lasting, and aesthetically pleasing. Choose Red Rhino Roofing for all your roofing needs in Horizon City.",
+        "localContext": "Horizon City, a rapidly developing suburban community, needs durable and reliable roofing to protect its growing population.",
+        "nearbyAreas": [
+          "El Paso",
+          "Clint",
+          "San Elizario"
+        ]
+      },
+      {
+        "city": "Anthony",
+        "slug": "anthony-tx",
+        "state": "TX",
+        "content": "Red Rhino Roofing is proud to offer its expert roofing services to the residents and businesses of Anthony, TX. We understand the unique roofing needs of this vibrant community and are committed to providing reliable, affordable, and high-quality solutions.\n\nOur team of experienced professionals is equipped to handle all your roofing needs, from minor repairs to complete roof replacements. We use only the best materials and employ proven techniques to ensure your roof is durable, long-lasting, and aesthetically pleasing. Whether you need a new roof for your home or repairs to your commercial building, Red Rhino Roofing is the trusted choice in Anthony.",
+        "localContext": "Anthony, a town straddling the Texas-New Mexico border, requires roofing solutions that can withstand both desert heat and occasional storms.",
+        "nearbyAreas": [
+          "El Paso",
+          "Canutillo",
+          "Vinton"
+        ]
+      },
+      {
+        "city": "Clint",
+        "slug": "clint-tx",
+        "state": "TX",
+        "content": "Red Rhino Roofing is pleased to extend our professional roofing services to the town of Clint, TX. Understanding the local climate and the specific needs of Clint residents, we offer comprehensive roofing solutions to ensure the safety and longevity of your property.\n\nFrom minor repairs to complete roof replacements, our skilled team is equipped to handle any roofing project with precision and care. We use only top-quality materials, ensuring your roof stands strong against the Texas weather. Trust Red Rhino Roofing to protect your home or business in Clint with superior roofing services.",
+        "localContext": "Clint, a small community with agricultural roots, benefits from robust roofing that can withstand the area's unique weather patterns.",
+        "nearbyAreas": [
+          "Socorro",
+          "Horizon City",
+          "San Elizario"
+        ]
+      },
+      {
+        "city": "San Elizario",
+        "slug": "san-elizario-tx",
+        "state": "TX",
+        "content": "Red Rhino Roofing is committed to providing the historic town of San Elizario, TX, with the highest quality roofing services. We understand the importance of preserving the architectural integrity of this community while ensuring the safety and durability of its roofs.\n\nOur experienced team offers a full range of roofing solutions, from repairs and maintenance to complete replacements. We use only the best materials and techniques to protect your home or business from the elements. Trust Red Rhino Roofing to deliver exceptional workmanship and outstanding customer service in San Elizario.",
+        "localContext": "San Elizario, a town rich in history and traditional architecture, requires roofing solutions that respect its heritage while providing modern protection.",
+        "nearbyAreas": [
+          "Socorro",
+          "Clint",
+          "Fabens"
+        ]
+      },
+      {
+        "city": "Canutillo",
+        "slug": "canutillo-tx",
+        "state": "TX",
+        "content": "Red Rhino Roofing is proud to serve the community of Canutillo, TX, with reliable and professional roofing services. We understand the unique needs of homeowners and businesses in this area and are committed to providing top-quality solutions.\n\nOur team of experienced professionals is equipped to handle all your roofing needs, from minor repairs to complete roof replacements. We use only the best materials and employ proven techniques to ensure your roof is durable, long-lasting, and aesthetically pleasing. Whether you need a new roof or repairs to an existing one, Red Rhino Roofing is the trusted choice in Canutillo.",
+        "localContext": "Canutillo, a growing community near El Paso, needs robust roofing to protect against the Texas sun and occasional storms.",
+        "nearbyAreas": [
+          "Anthony",
+          "Vinton",
+          "El Paso"
+        ]
+      },
+      {
+        "city": "Vinton",
+        "slug": "vinton-tx",
+        "state": "TX",
+        "content": "Red Rhino Roofing proudly offers its professional roofing services to the residents and businesses of Vinton, TX. We understand the importance of a reliable roof in protecting your property from the harsh Texas weather, and we are committed to providing top-quality solutions.\n\nFrom minor repairs to complete roof replacements, our experienced team is equipped to handle any roofing project with precision and care. We use only the best materials and proven techniques to ensure that your roof is durable, long-lasting, and aesthetically pleasing. Choose Red Rhino Roofing for all your roofing needs in Vinton.",
+        "localContext": "Vinton, a town with a mix of residential and agricultural properties, requires roofing that can withstand both rural and suburban environmental factors.",
+        "nearbyAreas": [
+          "Anthony",
+          "Canutillo",
+          "El Paso"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "Red Rhino Roofing was fantastic! We had a leak in our roof after a heavy rain, and they came out quickly to assess the damage. The repair was done efficiently and professionally. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Gutter Installation",
+        "text": "The team at Red Rhino Roofing did a great job installing new gutters on my home in Kern Place. The old ones were falling apart, and these new ones look great and function perfectly. Good value for the price.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Linda K.",
+        "rating": 5,
+        "service": "Roof Replacement",
+        "text": "I needed a complete roof replacement, and Red Rhino Roofing made the process smooth and stress-free. From the initial consultation to the final inspection, they were professional and communicative. My new roof looks amazing!",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Roof Inspection",
+        "text": "Red Rhino Roofing provided a thorough roof inspection that uncovered some potential issues I wasn't even aware of. Their detailed report helped me understand the condition of my roof and plan for future maintenance. Very helpful!",
+        "date": "2024-10-01"
+      },
+      {
+        "name": "Jessica H.",
+        "rating": 4,
+        "service": "Storm Damage Repair",
+        "text": "After a recent hailstorm, my roof was damaged. Red Rhino Roofing responded quickly and completed the repairs efficiently. They also helped me with my insurance claim, which was a huge relief.",
+        "date": "2024-11-18"
+      },
+      {
+        "name": "Michael C.",
+        "rating": 5,
+        "service": "Flat Roofing",
+        "text": "We had Red Rhino Roofing install a new TPO roof on our commercial building downtown. The team was professional, efficient, and the roof looks fantastic. Highly recommended for commercial roofing projects.",
+        "date": "2024-12-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Red Rhino Roofing | El Paso, TX",
+        "description": "El Paso's leading roofing company. Expert roof repair, replacement, and inspections. Free estimates. Protect your home today!"
+      },
+      "about": {
+        "title": "About Red Rhino Roofing | El Paso, TX",
+        "description": "Learn about Red Rhino Roofing's commitment to quality and customer satisfaction in El Paso, TX. Trusted roofing professionals."
+      },
+      "services": {
+        "title": "Roofing Services | El Paso, TX",
+        "description": "Comprehensive roofing services in El Paso, TX. Repair, replacement, inspections, and more. Protect your home with our expert team."
+      },
+      "contact": {
+        "title": "Contact Red Rhino Roofing | El Paso, TX",
+        "description": "Contact Red Rhino Roofing for a free estimate on your roofing project in El Paso, TX. Call us today!"
+      },
+      "reviews": {
+        "title": "Red Rhino Roofing Reviews | El Paso, TX",
+        "description": "Read what our customers are saying about Red Rhino Roofing in El Paso, TX. Trusted roofing services with proven results."
+      },
+      "service-areas": {
+        "title": "Roofing Service Areas | El Paso, TX",
+        "description": "Red Rhino Roofing provides roofing services throughout El Paso and surrounding areas. Find out if we serve your neighborhood."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-repair": "/images/service-roof-repair.webp",
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "roof-inspection": "/images/service-roof-inspection.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "flat-roofing": "/images/service-flat-roofing.webp",
+      "storm-damage-repair": "/images/service-storm-damage-repair.webp"
+    },
+    "servicesResponsive": {
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-inspection": {
+        "src": "/images/service-roof-inspection.webp",
+        "srcset": "/images/service-roof-inspection-400w.webp 400w, /images/service-roof-inspection-800w.webp 800w, /images/service-roof-inspection-1200w.webp 1200w, /images/service-roof-inspection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "flat-roofing": {
+        "src": "/images/service-flat-roofing.webp",
+        "srcset": "/images/service-flat-roofing-400w.webp 400w, /images/service-flat-roofing-800w.webp 800w, /images/service-flat-roofing-1200w.webp 1200w, /images/service-flat-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-damage-repair": {
+        "src": "/images/service-storm-damage-repair.webp",
+        "srcset": "/images/service-storm-damage-repair-400w.webp 400w, /images/service-storm-damage-repair-800w.webp 800w, /images/service-storm-damage-repair-1200w.webp 1200w, /images/service-storm-damage-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
